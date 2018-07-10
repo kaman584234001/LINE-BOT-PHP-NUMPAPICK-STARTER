@@ -35,4 +35,4 @@ if (!is_null($events['events'])) {
 	}
 }
 echo "OK3";
-?>
+?>phpecho "I am a bot";
